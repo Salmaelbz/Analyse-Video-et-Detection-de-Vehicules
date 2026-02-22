@@ -1,4 +1,4 @@
-# Analyse Vidéo et Détection de Véhicules — Soustraction de Fond, Région d'Intérêt (ROI) et Masquage
+# Analyse Vidéo et Détection de Véhicules : Soustraction de Fond, Région d'Intérêt (ROI) et Masquage
 
 Ce projet traite des flux vidéo (autoroute, routes) pour en extraire des informations : métadonnées, fond moyen, régions d, masques et détection de véhicules par soustraction de fond.
 
@@ -176,3 +176,4 @@ TP4_ELBAZ/
 ---
 
 **Auteur :** ELBAZ
+
